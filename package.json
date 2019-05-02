@@ -1,0 +1,9 @@
+{
+  "name": "sunburst",
+  "main": "sunburst.js",
+  "version": "214.0.0",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  }
+}

@@ -1,0 +1,791 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Planetario",
+   "children": [
+     {
+      "name": "Arte",
+      "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 200}
+          ]
+        }
+      ]
+     },
+    {
+     "name": "Astronomia",
+     "children": [
+       {
+         "name": "Cátedra",
+         "children": [
+           {"name": "No Boleteria", "value": 2415}
+          ]
+        },
+      {"name": "Celebración", "value": 100},
+      {
+        "name": "Coloquio",
+        "children": [
+          {"name": "No Boleteria", "value": 6364}
+         ]
+       },
+       {
+         "name": "Concierto",
+         "children": [
+           {"name": "No Boleteria", "value": 8110}
+          ]
+        },
+        {
+          "name": "Curso",
+          "children": [
+            {"name": "No Boleteria", "value": 120}
+           ]
+         },
+         {
+           "name": "Documental",
+           "children": [
+             {"name": "No Boleteria", "value": 900}
+            ]
+          },
+          {
+            "name": "Encuentro",
+            "children": [
+              {"name": "No Boleteria", "value": 205},
+              {"name": "Boleteria", "value": 120}
+             ]
+           },
+           {
+             "name": "Evento",
+             "children": [
+               {"name": "No Boleteria", "value": 254},
+               {"name": "Boleteria", "value": 230}
+              ]
+            },
+            {
+              "name": "Formación",
+              "children": [
+                {"name": "No Boleteria", "value": 400}
+               ]
+             },
+             {
+               "name": "Lectura",
+               "children": [
+                 {"name": "No Boleteria", "value": 15}
+                ]
+              },
+              {
+                "name": "Observación A.",
+                "children": [
+                  {"name": "No Boleteria", "value": 4468}
+                 ]
+               },
+      {
+        "name": "Conferencia",
+        "children": [
+         {"name": "No Boleteria", "value": 2132}
+        ]
+       },
+       {
+         "name": "Conversatorio",
+         "children": [
+           {"name": "No Boleteria", "value": 64}
+          ]
+        },
+        {
+          "name": "Show",
+          "children": [
+            {"name": "No Boleteria", "value": 2983},
+            {"name": "Boleteria", "value": 113}
+           ]
+         },
+         {
+           "name": "Taller",
+           "children": [
+             {"name": "No Boleteria", "value": 149}
+            ]
+          },
+          {
+            "name": "Video Foro",
+            "children": [
+              {"name": "No Boleteria", "value": 2397}
+             ]
+           }
+     ]
+    },
+    {
+     "name": "Biodiversidad",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 496},
+           {"name": "Boleteria", "value": 115}
+          ]
+        },
+        {
+          "name": "Evento Digital",
+          "children": [
+            {"name": "No Boleteria", "value": 100}
+           ]
+         },
+         {
+           "name": "Taller",
+           "children": [
+             {"name": "No Boleteria", "value": 212}
+            ]
+          }
+     ]
+    },
+    {
+     "name": "Biología",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 630}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Ciencias Exactas",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 200}
+          ]
+        },
+        {
+          "name": "Video Foro",
+          "children": [
+            {"name": "No Boleteria", "value": 50}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "Cultura",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 1100}
+          ]
+        },
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 100}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "DEAI",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 98}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Fútbol",
+     "children": [
+       {
+         "name": "Cátedra",
+         "children": [
+           {"name": "Boleteria", "value": 40}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Ingeniería",
+     "children": [
+       {
+         "name": "Show",
+         "children": [
+           {"name": "No Boleteria", "value": 110}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Literatura",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 100}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Música",
+     "children": [
+       {
+         "name": "Encuentro",
+         "children": [
+           {"name": "No Boleteria", "value": 35}
+          ]
+        },
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 190}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "Historia",
+     "children": [
+       {
+         "name": "Taller",
+         "children": [
+           {"name": "No Boleteria", "value": 15}
+          ]
+        },
+      {
+        "name": "Evento",
+        "children": [
+          {"name": "No Boleteria", "value": 25}
+         ]
+       },
+       {
+         "name": "Documental",
+         "children": [
+           {"name": "No Boleteria", "value": 100}
+          ]
+        }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Explora",
+   "children": [
+     {
+      "name": "Arte",
+      "children": [
+        {
+          "name": "Conferencias",
+          "children": [
+            {"name": "Boleteria", "value": 100}
+           ]
+         },
+         {
+           "name": "Conversatorio",
+           "children": [
+             {"name": "Boleteria", "value": 160}
+            ]
+          },
+          {
+            "name": "Proyección",
+            "children": [
+              {"name": "Boleteria", "value": 350}
+             ]
+           },
+           {
+             "name": "Taller",
+             "children": [
+               {"name": "Boleteria", "value": 150}
+              ]
+            }
+      ]
+     },
+     {
+      "name": "Astronomía",
+      "children": [
+        {
+          "name": "Concierto",
+          "children": [
+            {"name": "No Boleteria", "value": 150}
+           ]
+         },
+         {
+           "name": "Conferencia",
+           "children": [
+             {"name": "No Boleteria", "value": 423}
+            ]
+          },
+          {
+            "name": "Evento",
+            "children": [
+              {"name": "Boleteria", "value": 50}
+             ]
+           }
+      ]
+     },
+     {
+      "name": "Biodiversidad",
+      "children": [
+        {
+          "name": "Cátedra",
+          "children": [
+            {"name": "No Boleteria", "value": 135}
+           ]
+         },
+         {
+           "name": "Charla",
+           "children": [
+             {"name": "No Boleteria", "value": 40}
+            ]
+          },
+          {
+            "name": "Conferencia",
+            "children": [
+              {"name": "No Boleteria", "value": 1891},
+              {"name": "Boleteria", "value": 1265}
+             ]
+           },
+           {
+             "name": "Conversatorio",
+             "children": [
+               {"name": "Boleteria", "value": 250}
+              ]
+            },
+            {
+              "name": "Encuentro",
+              "children": [
+                {"name": "No Boleteria", "value": 150}
+               ]
+             },
+             {
+               "name": "Privacidad",
+               "children": [
+                 {"name": "No Boleteria", "value": 122}
+                ]
+              },
+              {
+                "name": "Proyección",
+                "children": [
+                  {"name": "No Boleteria", "value": 300}
+                 ]
+               }
+      ]
+     },
+     {
+      "name": "Biología",
+      "children": [
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 192}
+           ]
+         },
+         {
+           "name": "Cátedra",
+           "children": [
+             {"name": "No Boleteria", "value": 341}
+            ]
+          },
+          {
+            "name": "Conversatorio",
+            "children": [
+              {"name": "No Boleteria", "value": 64}
+             ]
+           },
+           {
+             "name": "Laboratorio",
+             "children": [
+               {"name": "No Boleteria", "value": 46}
+              ]
+            },
+            {
+              "name": "Taller",
+              "children": [
+                {"name": "No Boleteria", "value": 20}
+               ]
+             }
+      ]
+     },
+     {
+      "name": "Ciencias Exactas",
+      "children": [
+        {
+          "name": "Celebración",
+          "children": [
+            {"name": "Boleteria", "value": 20}
+           ]
+         },
+         {
+           "name": "Conferencia",
+           "children": [
+             {"name": "No Boleteria", "value": 363}
+            ]
+          },
+          {
+            "name": "Documental",
+            "children": [
+              {"name": "No Boleteria", "value": 500}
+             ]
+           },
+           {
+             "name": "Teatro",
+             "children": [
+               {"name": "Boleteria", "value": 5108}
+              ]
+            }
+      ]
+     },
+     {
+      "name": "Cultura",
+      "children": [
+        {
+          "name": "Concierto",
+          "children": [
+            {"name": "No Boleteria", "value": 170}
+           ]
+         },
+         {
+           "name": "Conferencia",
+           "children": [
+             {"name": "No Boleteria", "value": 947}
+            ]
+          },
+          {
+            "name": "Conversatorio",
+            "children": [
+              {"name": "No Boleteria", "value": 53}
+             ]
+           },
+           {
+             "name": "Encuentro",
+             "children": [
+               {"name": "No Boleteria", "value": 160}
+              ]
+            }
+      ]
+     },
+     {
+      "name": "Fútbol",
+      "children": [
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 284}
+           ]
+         }
+      ]
+     },
+     {
+      "name": "Geología",
+      "children": [
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 255}
+           ]
+         }
+      ]
+     },
+     {
+      "name": "Historia",
+      "children": [
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 1570}
+           ]
+         },
+         {
+           "name": "Cátedra",
+           "children": [
+             {"name": "No Boleteria", "value": 70}
+            ]
+          }
+      ]
+     },
+     {
+      "name": "Ingeniería",
+      "children": [
+        {
+          "name": "Evento",
+          "children": [
+            {"name": "No Boleteria", "value": 80}
+           ]
+         }
+      ]
+     },
+     {
+      "name": "Educación",
+      "children": [
+        {
+          "name": "Charla",
+          "children": [
+            {"name": "No Boleteria", "value": 2200}
+           ]
+         }
+      ]
+     },
+     {
+      "name": "Emprendimiento",
+      "children": [
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 465}
+           ]
+         }
+      ]
+     }
+   ]
+  },
+  {
+   "name": "Exploratorio",
+   "children": [
+     {
+      "name": "Agricultura",
+      "children": [
+        {
+          "name": "Cafe Cacharrero",
+          "children": [
+            {"name": "No Boleteria", "value": 17}
+           ]
+         },
+         {
+           "name": "Laboratorio",
+           "children": [
+             {"name": "No Boleteria", "value": 20}
+            ]
+          },
+          {
+            "name": "P.Hacedores",
+            "children": [
+              {"name": "Boleteria", "value": 2}
+             ]
+           },
+           {
+             "name": "Taller",
+             "children": [
+               {"name": "No Boleteria", "value": 10}
+              ]
+            }
+      ]
+     },
+    {
+     "name": "Artes y Oficios",
+     "children": [
+       {
+         "name": "Cafe Cacharrero",
+         "children": [
+           {"name": "No Boleteria", "value": 27}
+          ]
+        },
+        {
+          "name": "Concierto",
+          "children": [
+            {"name": "No Boleteria", "value": 150}
+           ]
+         },
+         {
+           "name": "Conferencia",
+           "children": [
+             {"name": "No Boleteria", "value": 155}
+            ]
+          },
+          {
+            "name": "Laboratorio",
+            "children": [
+              {"name": "No Boleteria", "value": 205}
+             ]
+           },
+           {
+             "name": "Evento",
+             "children": [
+               {"name": "No Boleteria", "value": 930}
+              ]
+            }
+     ]
+    },
+    {
+     "name": "Astronomía",
+     "children": [
+       {
+         "name": "Cafe Cacharrero",
+         "children": [
+           {"name": "No Boleteria", "value": 10}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Biología",
+     "children": [
+       {
+         "name": "Taller",
+         "children": [
+           {"name": "No Boleteria", "value": 20}
+          ]
+        },
+        {
+          "name": "Laboratorio",
+          "children": [
+            {"name": "No Boleteria", "value": 46}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "Ciencias Exactas",
+     "children": [
+       {
+         "name": "Conversatorio",
+         "children": [
+           {"name": "No Boleteria", "value": 55}
+          ]
+        },
+        {
+          "name": "Taller",
+          "children": [
+            {"name": "No Boleteria", "value": 150}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "Cultura",
+     "children": [
+       {
+         "name": "Concierto",
+         "children": [
+           {"name": "No Boleteria", "value": 300}
+          ]
+        },
+        {
+          "name": "Conferencia",
+          "children": [
+            {"name": "No Boleteria", "value": 54}
+           ]
+         },
+         {
+           "name": "Conversatorio",
+           "children": [
+             {"name": "No Boleteria", "value": 200}
+            ]
+          },
+          {
+            "name": "Evento",
+            "children": [
+              {"name": "No Boleteria", "value": 240}
+             ]
+           },
+           {
+             "name": "Exposición",
+             "children": [
+               {"name": "No Boleteria", "value": 100}
+              ]
+            },
+            {
+              "name": "Laboratorio",
+              "children": [
+                {"name": "No Boleteria", "value": 297}
+               ]
+             }
+     ]
+    },
+    {
+     "name": "Ebanistería",
+     "children": [
+       {
+         "name": "Café Cacharrero",
+         "children": [
+           {"name": "No Boleteria", "value": 12}
+          ]
+        },
+        {
+          "name": "Inducción",
+          "children": [
+            {"name": "No Boleteria", "value": 12}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "Educación",
+     "children": [
+       {
+         "name": "Conversatorio",
+         "children": [
+           {"name": "No Boleteria", "value": 25}
+          ]
+        }
+     ]
+    },
+    {
+     "name": "Emprendimiento",
+     "children": [
+      {"name": "Conferencia", "value": 10000},
+      {
+        "name": "Evento",
+        "children": [
+          {"name": "No Boleteria", "value": 140}
+         ]
+       }
+     ]
+    },
+    {
+     "name": "Fútbol",
+     "children": [
+       {
+         "name": "Conferencia",
+         "children": [
+           {"name": "No Boleteria", "value": 25}
+          ]
+        },
+        {
+          "name": "P. Hacedores",
+          "children": [
+            {"name": "No Boleteria", "value": 5}
+           ]
+         }
+     ]
+    },
+    {
+     "name": "Ingenierías",
+     "children": [
+       {
+         "name": "Laboratorio",
+         "children": [
+           {"name": "No Boleteria", "value": 55}
+          ]
+        },
+        {
+          "name": "Evento",
+          "children": [
+            {"name": "No Boleteria", "value": 204}
+           ]
+         },
+         {
+           "name": "Taller",
+           "children": [
+             {"name": "No Boleteria", "value": 185}
+            ]
+          },
+          {
+            "name": "Reto",
+            "children": [
+              {"name": "No Boleteria", "value": 27}
+             ]
+           },
+           {
+             "name": "P. Hacedores",
+             "children": [
+               {"name": "Boleteria", "value": 39}
+              ]
+            },
+      {"name": "LabResidencia", "value": 4}
+     ]
+    }
+   ]
+  }
+ ]
+}
